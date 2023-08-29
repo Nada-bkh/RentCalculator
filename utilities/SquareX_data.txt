@@ -1,0 +1,408 @@
+[
+        {
+            "idPayment": 0,
+            "paymentDate": 1655127240000,
+            "amount": 100,
+            "type": 0,
+            "rental": 118,
+            "createdAt": 1691051337587
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1656343440000,
+            "amount": 500,
+            "type": 0,
+            "rental": 132,
+            "createdAt": 1691051337587
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1656666000000,
+            "amount": 420,
+            "type": 1,
+            "rental": 119,
+            "createdAt": 1691051337587
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1656666000000,
+            "amount": 490,
+            "type": 1,
+            "rental": 109,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1655881200000,
+            "amount": 350,
+            "type": 1,
+            "rental": 122,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1656230760000,
+            "amount": 280,
+            "type": 1,
+            "rental": 129,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1658822820000,
+            "amount": 280,
+            "type": 1,
+            "rental": 128,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1664179740000,
+            "amount": 700,
+            "type": 1,
+            "rental": 110,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1666771800000,
+            "amount": 1000,
+            "type": 1,
+            "rental": 106,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1666771800000,
+            "amount": 700,
+            "type": 1,
+            "rental": 105,
+            "createdAt": 1691051337588
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1659344400000,
+            "amount": 490,
+            "type": 1,
+            "rental": 126,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1659546000000,
+            "amount": 280,
+            "type": 1,
+            "rental": 136,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1659607200000,
+            "amount": 490,
+            "type": 1,
+            "rental": 121,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1659609000000,
+            "amount": 490,
+            "type": 1,
+            "rental": 120,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1659954600000,
+            "amount": 420,
+            "type": 1,
+            "rental": 131,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1659956400000,
+            "amount": 500,
+            "type": 0,
+            "rental": 139,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1789995420000,
+            "amount": 280,
+            "type": 1,
+            "rental": 140,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1795265940000,
+            "amount": 870,
+            "type": 1,
+            "rental": 130,
+            "createdAt": 1691051337589
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1640091600000,
+            "amount": 280,
+            "type": 1,
+            "rental": 141,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1645448520000,
+            "amount": 490,
+            "type": 1,
+            "rental": 142,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1661511600000,
+            "amount": 280,
+            "type": 1,
+            "rental": 133,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1661511600000,
+            "amount": 280,
+            "type": 1,
+            "rental": 134,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1662109200000,
+            "amount": 450,
+            "type": 1,
+            "rental": 143,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1771505400000,
+            "amount": 840,
+            "type": 1,
+            "rental": 114,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1776603120000,
+            "amount": 280,
+            "type": 1,
+            "rental": 138,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1664622000000,
+            "amount": 500,
+            "type": 1,
+            "rental": 144,
+            "createdAt": 1691051337590
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1664622000000,
+            "amount": 500,
+            "type": 1,
+            "rental": 145,
+            "createdAt": 1691051337591
+        },
+        {
+            "idPayment": 0,
+            "paymentDate": 1664791200000,
+            "amount": 450,
+            "type": 1,
+            "rental": 146,
+            "createdAt": 1691051337591
+        },
+        {
+            "amount": 640,
+            "idPayment": 0,
+            "paymentDate": 1815155700000,
+            "rental": 166,
+            "type": 1
+        },
+        {
+            "amount": 500,
+            "idPayment": 0,
+            "paymentDate": 1683120600000,
+            "rental": 177,
+            "type": 0
+        },
+        {
+            "amount": 500,
+            "idPayment": 0,
+            "paymentDate": 1683073800000,
+            "rental": 178,
+            "type": 0
+        },
+        {
+            "amount": 100,
+            "idPayment": 0,
+            "paymentDate": 1686851940000,
+            "rental": 188,
+            "type": 0
+        },
+        {
+            "amount": 1350,
+            "idPayment": 0,
+            "paymentDate": 1688202000000,
+            "rental": 171,
+            "type": 1
+        },
+        {
+            "amount": 360,
+            "idPayment": 0,
+            "paymentDate": 1688464800000,
+            "rental": 189,
+            "type": 1
+        },
+        {
+            "amount": 100,
+            "idPayment": 0,
+            "paymentDate": 1688464800000,
+            "rental": 190,
+            "type": 0
+        },
+        {
+            "amount": 360,
+            "idPayment": 0,
+            "paymentDate": 1688565600000,
+            "rental": 173,
+            "type": 1
+        },
+        {
+            "amount": 900,
+            "idPayment": 0,
+            "paymentDate": 1689235200000,
+            "rental": 174,
+            "type": 1
+        },
+        {
+            "amount": 540,
+            "idPayment": 0,
+            "paymentDate": 1688468400000,
+            "rental": 182,
+            "type": 1
+        },
+        {
+            "amount": 555,
+            "idPayment": 0,
+            "paymentDate": 1689418800000,
+            "rental": 172,
+            "type": 1
+        },
+        {
+            "amount": 100,
+            "idPayment": 0,
+            "paymentDate": 1689685200000,
+            "rental": 194,
+            "type": 0
+        },
+        {
+            "amount": 100,
+            "idPayment": 0,
+            "paymentDate": 1689688800000,
+            "rental": 191,
+            "type": 0
+        },
+        {
+            "amount": 100,
+            "idPayment": 0,
+            "paymentDate": 1689847200000,
+            "rental": 195,
+            "type": 0
+        },
+        {
+            "amount": 540,
+            "idPayment": 0,
+            "paymentDate": 1690790400000,
+            "rental": 167,
+            "type": 1
+        },
+        {
+            "amount": 630,
+            "idPayment": 0,
+            "paymentDate": 1690527600000,
+            "rental": 183,
+            "type": 1
+        },
+        {
+            "amount": 630,
+            "idPayment": 0,
+            "paymentDate": 1690704000000,
+            "rental": 184,
+            "type": 1
+        },
+        {
+            "amount": 630,
+            "idPayment": 0,
+            "paymentDate": 1689498000000,
+            "rental": 176,
+            "type": 1
+        },
+        {
+            "amount": 630,
+            "idPayment": 0,
+            "paymentDate": 1690020000000,
+            "rental": 192,
+            "type": 1
+        },
+        {
+            "amount": 450,
+            "idPayment": 0,
+            "paymentDate": 1691330400000,
+            "rental": 169,
+            "type": 1
+        },
+        {
+            "amount": 450,
+            "idPayment": 0,
+            "paymentDate": 1691330400000,
+            "rental": 170,
+            "type": 1
+        },
+        {
+            "amount": 270,
+            "idPayment": 0,
+            "paymentDate": 1691136000000,
+            "rental": 196,
+            "type": 1
+        },
+        {
+            "amount": 100,
+            "idPayment": 0,
+            "paymentDate": 1691578800000,
+            "rental": 197,
+            "type": 0
+        },
+        {
+            "amount": 480,
+            "idPayment": 0,
+            "paymentDate": 1691416800000,
+            "rental": 187,
+            "type": 1
+        },
+        {
+            "amount": 320,
+            "idPayment": 0,
+            "paymentDate": 1691823600000,
+            "rental": 185,
+            "type": 1
+        },
+        {
+            "amount": 320,
+            "idPayment": 0,
+            "paymentDate": 1691823600000,
+            "rental": 186,
+            "type": 1
+        }
+]
